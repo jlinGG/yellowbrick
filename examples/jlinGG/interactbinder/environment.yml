@@ -2,7 +2,7 @@ name: binderenv
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python3
   - numpy
   - yellowbrick
   - pip3:
