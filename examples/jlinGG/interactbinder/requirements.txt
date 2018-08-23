@@ -1,0 +1,5 @@
+yellowbrick
+sklearn
+pandas
+matplotlib
+ipywidgets

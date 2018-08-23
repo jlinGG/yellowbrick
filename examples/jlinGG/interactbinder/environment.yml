@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - yellowbrick
   - pip3:
+    - python3
     - yellowbrick
     - sklearn
     - pandas
