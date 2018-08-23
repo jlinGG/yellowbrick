@@ -1,0 +1,12 @@
+name: binderenv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - yellowbrick
+    - sklearn
+    - pandas
+    - matplotlib
+    - ipywidgets
