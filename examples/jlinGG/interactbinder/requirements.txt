@@ -26,4 +26,4 @@ runipy
 
 yellowbrick>=0.8
 ipywidgets
-
+jupyter_contrib_nbextensions
