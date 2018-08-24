@@ -1,5 +1,7 @@
-pip3s install yellowbrick
-pip3s install sklearn
-pip3s install pandas
-pip3s install matplotlib
-pip3s install ipywidgets
+numpy
+yellowbrick
+sklearn
+pandas
+matplotlib
+ipywidgets
+
