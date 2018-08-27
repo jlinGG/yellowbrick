@@ -21,6 +21,6 @@ mock>=2.0.0
 nltk>=3.2
 pandas>=0.20
 
-yellowbrick>=0.8
+districtdatalabs yellowbrick>=0.8
 ipywidgets
 jupyter_contrib_nbextensions
