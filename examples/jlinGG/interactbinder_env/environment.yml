@@ -1,0 +1,11 @@
+name: Interactive_YB_classifiers
+channels:
+  - conda-forge
+dependencies:
+  - python3
+  - numpy
+  - yellowbrick
+  - sklearn
+  - pandas
+  - matplotlib
+  - ipywidgets
