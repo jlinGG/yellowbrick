@@ -1,3 +1,15 @@
+This version duplicates https://github.com/binder-examples/jupyter-extension,
+an example of Binder with use of ipywidgets.
+
+
+
+
+
+
+
+
+
+
 # CommandLine
 cd Desktop/Projects/personal/interactbinder
 ## Set up virtualenv
