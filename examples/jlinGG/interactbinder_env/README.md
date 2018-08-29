@@ -1,8 +1,4 @@
-# CommandLine
-cd Desktop/Projects/personal/interactbinder
-## Set up virtualenv
-virtualenv --envname
-## Spin up virtualenv
-source binderenv/bin/activate
-## DL requirements (if haven't already)
-pip install -r requirements.txt
+# Description
+This version of uses an environment.yml file to build the Binder instance. 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jlinGG/yellowbrick/develop?filepath=examples%2FjlinGG%2Finteractbinder_env)
